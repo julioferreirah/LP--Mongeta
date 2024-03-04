@@ -1,0 +1,623 @@
+.blurHeadlineIcon,
+.fundoTelemarketingIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1200px;
+  object-fit: cover;
+}
+.blurHeadlineIcon {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  transform: scale(2.606);
+}
+.wrapperBlurHeadline {
+  position: absolute;
+  top: 685px;
+  left: 79px;
+  width: 576px;
+  height: 249px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.whatsappEmailLinksGroup {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 99.9px;
+  object-fit: contain;
+}
+.instagram {
+  position: absolute;
+  top: 17.2px;
+  left: 122.9px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 215.1px;
+  height: 65.7px;
+}
+.instagramLink {
+  position: absolute;
+  top: 3652px;
+  left: 201px;
+  width: 337.9px;
+  height: 99.9px;
+}
+.automaesDeRespostas,
+.botsDeAtedimento,
+.centrazaoDeCanais,
+.colaboraoDeTimes,
+.identificaoDeAtendente,
+.notasEClassificaes,
+.reportesEComandos {
+  margin-block-start: 0;
+  margin-block-end: 60px;
+}
+.centrazaoDeCanaisContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+}
+.instagramLink1 {
+  top: 2728px;
+  left: 384px;
+  width: 566px;
+  height: 528px;
+  font-size: var(--font-size-23xl);
+}
+.icon,
+.instagramLink1,
+.whatsapp {
+  position: absolute;
+}
+.icon {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 99.9px;
+  object-fit: contain;
+}
+.whatsapp {
+  top: 17.2px;
+  left: 115.7px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 215.1px;
+  height: 65.7px;
+}
+.whatsLink {
+  top: 3652px;
+  left: 987px;
+  width: 330.8px;
+  height: 99.9px;
+}
+.email,
+.icon1,
+.whatsLink {
+  position: absolute;
+}
+.icon1 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 99.9px;
+  object-fit: contain;
+}
+.email {
+  top: 17.2px;
+  left: 122.9px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 215.1px;
+  height: 65.7px;
+}
+.emailLink {
+  top: 3652px;
+  left: 1382px;
+  width: 337.9px;
+  height: 99.9px;
+}
+.emailLink,
+.icon2,
+.tiktok {
+  position: absolute;
+}
+.icon2 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 99.9px;
+  object-fit: contain;
+}
+.tiktok {
+  top: 17.2px;
+  left: 122.5px;
+  text-decoration: underline;
+  display: inline-block;
+  width: 215.1px;
+  height: 65.7px;
+}
+.tiktokLink {
+  position: absolute;
+  top: 3652px;
+  left: 592px;
+  width: 337.6px;
+  height: 99.9px;
+}
+.copyrigthSteffer {
+  position: absolute;
+  top: 4150px;
+  left: 502px;
+  font-size: 38px;
+  text-align: center;
+  display: inline-block;
+  width: 950px;
+  height: 80px;
+}
+.cabealho {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(39, 232, 220, 0.7);
+  width: 1920px;
+  height: 200px;
+}
+.mongetaLogoCabIcon {
+  position: absolute;
+  top: 34px;
+  left: 180px;
+  width: 375px;
+  height: 122px;
+  object-fit: cover;
+}
+.saibaMais {
+  position: relative;
+  font-size: var(--font-size-23xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  padding-left: var(--padding-xl);
+  padding-right: var(--padding-xl);
+}
+.boto {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: var(--color-indigo);
+  position: absolute;
+  top: 60px;
+  left: 1365px;
+  border-radius: var(--br-mini);
+  box-shadow: 4px 10px 8px rgba(0, 0, 0, 0.25);
+  width: 375px;
+  height: 80px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+.boto:hover {
+  background-color: var(--color-slateblue);
+}
+.saibaMais1 {
+  position: relative;
+  font-size: var(--font-size-23xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: #0e3262;
+  text-align: left;
+  padding-left: var(--padding-xl);
+  padding-right: var(--padding-xl);
+}
+.boto1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: var(--color-turquoise-100);
+  position: absolute;
+  top: 2728px;
+  left: 1318px;
+  border-radius: var(--br-mini);
+  box-shadow: 4px 10px 8px rgba(0, 0, 0, 0.25);
+  width: 375px;
+  height: 80px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+.boto1:hover {
+  background-color: #00b5a8;
+}
+.mongetaLogoFinalIcon {
+  position: absolute;
+  top: 3874px;
+  left: 738px;
+  width: 479px;
+  height: 153px;
+  object-fit: cover;
+}
+.polygonShapeIcon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 918px;
+  max-height: 100%;
+  width: 84px;
+  object-fit: contain;
+}
+.horizontalLine {
+  position: absolute;
+  top: 28px;
+  left: -10px;
+  border-top: 20px solid var(--color-indigo);
+  box-sizing: border-box;
+  width: 1940px;
+  height: 20px;
+}
+.divisriaPrimeiraDobra,
+.telachathoot1Icon {
+  position: absolute;
+  top: 1162px;
+  left: 0;
+  width: 1920px;
+  height: 76px;
+}
+.telachathoot1Icon {
+  top: 514px;
+  width: 1553px;
+  height: 853px;
+  object-fit: cover;
+}
+.iconeStefferCircular1,
+.iconeStefferCircular2 {
+  position: absolute;
+  top: 557px;
+  left: 12px;
+  width: 42px;
+  height: 42px;
+  object-fit: cover;
+}
+.iconeStefferCircular2 {
+  top: 0;
+  left: 1380px;
+  width: 207px;
+  height: 156px;
+}
+.telaMongeta {
+  position: absolute;
+  top: 1027px;
+  left: 172px;
+  width: 1587px;
+  height: 1367px;
+}
+.blurBrancoLateral {
+  position: absolute;
+  top: 196px;
+  left: -25px;
+  border-radius: 30px;
+  width: 229.5px;
+  height: 552px;
+  object-fit: contain;
+}
+.blurAzulLateral {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(1.833);
+}
+.wrapperBlurAzulLateral {
+  position: absolute;
+  top: 587px;
+  left: 1680px;
+  width: 480px;
+  height: 575px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.blurAzulCentral {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(2.379);
+}
+.wrapperBlurAzulCentral {
+  position: absolute;
+  top: 443px;
+  left: 660px;
+  width: 290px;
+  height: 331px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.blurWhats {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(1.87);
+}
+.wrapperBlurWhats {
+  position: absolute;
+  top: 190px;
+  left: 1398px;
+  width: 474px;
+  height: 460px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.boto2,
+.saibaMais2 {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.saibaMais2 {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-23xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  padding-left: var(--padding-xl);
+  padding-right: var(--padding-xl);
+}
+.boto2 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: var(--color-indigo);
+  position: absolute;
+  top: 961px;
+  left: 184px;
+  border-radius: 20px;
+  box-shadow: 4px 8px 10px rgba(0, 0, 0, 0.25);
+  width: 572px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  min-height: 80px;
+}
+.boto2:hover {
+  background-color: var(--color-slateblue);
+}
+.gerencimentoDeConversasContainer {
+  position: absolute;
+  top: 724px;
+  left: 180px;
+  font-size: 52px;
+  color: var(--color-turquoise-100);
+  display: inline-block;
+  width: 572px;
+  height: 335px;
+}
+.atendimento,
+.centralizeOSeu {
+  font-family: var(--font-inter);
+}
+.umSLuga {
+  text-decoration: underline;
+}
+.centralizeOSeuContainer {
+  margin: 0;
+  position: absolute;
+  top: 350px;
+  left: 180px;
+  font-size: 72px;
+  display: inline-block;
+  width: 572px;
+  height: 335px;
+  font-family: inherit;
+}
+.aumenteSuaProdutividade1 {
+  color: var(--color-turquoise-100);
+}
+.aumenteSuaProdutividade,
+.automaes,
+.com {
+  font-family: var(--font-inter);
+}
+.semTrocarDe {
+  text-decoration: underline;
+}
+.aumenteSuaProdutividadeContainer {
+  position: absolute;
+  top: 1334px;
+  left: 177px;
+  font-size: var(--font-size-35xl);
+  text-align: center;
+  display: inline-block;
+  width: 1560px;
+  height: 174px;
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.nmerosAparelhosE {
+  text-decoration: underline;
+}
+.vriosNmerosAparelhosContainer {
+  position: absolute;
+  top: 2486px;
+  left: 194px;
+  font-size: var(--font-size-35xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 1560px;
+  height: 174px;
+}
+.mockeupIcon {
+  position: absolute;
+  top: 2874px;
+  left: 1253px;
+  width: 667px;
+  height: 651px;
+  object-fit: cover;
+}
+.divisorIcon {
+  position: absolute;
+  top: 3516px;
+  left: 933px;
+  width: 1161px;
+  height: 30px;
+}
+.centralized11,
+.teamWork11,
+.whatsLogo1Icon {
+  position: absolute;
+  top: 231px;
+  left: 1446px;
+  width: 378px;
+  height: 378px;
+  object-fit: cover;
+}
+.centralized11,
+.teamWork11 {
+  top: 2685px;
+  left: 201px;
+  width: 128px;
+  height: 128px;
+}
+.teamWork11 {
+  top: 2777px;
+  left: 987px;
+}
+.automation1Icon,
+.bot1Icon,
+.report1Icon,
+.verified1Icon,
+.writing1Icon {
+  position: absolute;
+  top: 2905px;
+  left: 201px;
+  width: 128px;
+  height: 128px;
+  object-fit: cover;
+}
+.bot1Icon,
+.report1Icon,
+.verified1Icon,
+.writing1Icon {
+  top: 3017px;
+  left: 987px;
+}
+.report1Icon,
+.verified1Icon,
+.writing1Icon {
+  top: 3136px;
+  left: 211px;
+}
+.report1Icon,
+.verified1Icon {
+  top: 3281px;
+  left: 994px;
+}
+.report1Icon {
+  top: 3409px;
+  left: 211px;
+}
+.lpMongeta {
+  width: 100%;
+  height: 4320px;
+  position: relative;
+  background: linear-gradient(180deg, #0e3262 50.5%, #4a26a3 83%);
+  overflow: hidden;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-26xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 750px) {
+  .instagram {
+    font-size: var(--font-size-17xl);
+  }
+  .centrazaoDeCanaisContainer {
+    font-size: var(--font-size-15xl);
+  }
+  .email,
+  .tiktok,
+  .whatsapp {
+    font-size: var(--font-size-17xl);
+  }
+  .copyrigthSteffer {
+    font-size: 30px;
+  }
+  .saibaMais2 {
+    font-size: var(--font-size-15xl);
+  }
+  .gerencimentoDeConversasContainer {
+    font-size: var(--font-size-23xl);
+  }
+  .centralizeOSeuContainer {
+    font-size: 58px;
+  }
+  .aumenteSuaProdutividadeContainer,
+  .vriosNmerosAparelhosContainer {
+    font-size: var(--font-size-24xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .instagram {
+    font-size: var(--font-size-8xl);
+  }
+  .centrazaoDeCanaisContainer {
+    font-size: var(--font-size-6xl);
+  }
+  .email,
+  .tiktok,
+  .whatsapp {
+    font-size: var(--font-size-8xl);
+  }
+  .copyrigthSteffer {
+    font-size: 23px;
+  }
+  .saibaMais2 {
+    font-size: var(--font-size-6xl);
+  }
+  .gerencimentoDeConversasContainer {
+    font-size: 31px;
+  }
+  .centralizeOSeuContainer {
+    font-size: var(--font-size-24xl);
+  }
+  .aumenteSuaProdutividadeContainer,
+  .vriosNmerosAparelhosContainer {
+    font-size: var(--font-size-13xl);
+  }
+}
